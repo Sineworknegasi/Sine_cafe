@@ -4,8 +4,8 @@ import "./About.css";
 
 const About = () => {
   return (
-    <section className="About_section mt-5">
-      <div className="container pt-5">
+    <section className="About_section my-5">
+      <div className="container py-5">
         <div className="row justify-content-center align-items-center gap-2 gap-md-0">
           <div className="col-md-6">
             <div className="About_video">
