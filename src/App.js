@@ -5,6 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.js'
 import Hero from './Components/Hero/Hero'
 import About from './Components/About/About'
+import Coffee from './Components/Coffee/Coffee'
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
     <Navbar/>
     <Hero/>
     <About/>
+    <Coffee/>
     </>
   )
 }

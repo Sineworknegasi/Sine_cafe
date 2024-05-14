@@ -9,6 +9,7 @@ const Navbar = () => {
 
   return (
     <header className="header py-3">
+      <div className="header_contact container gap-5 text-end text-white"><p className="mb-0">Mon-Fri: 8am to 2pm</p> <p className="m-0">Sat-Sun: 11am to 4pm</p><p className="m-0">(012) 6985 236 7512</p></div>
       <nav className="nav container d-flex justify-content-between px-2">
         <a href="#Home" className="nav__logo text-decoration-none">
           Yene<span className="Cafe">Cafe.</span>
