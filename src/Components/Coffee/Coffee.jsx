@@ -85,10 +85,10 @@ const Coffee = () => {
       <div className="container">
         <div className="row d-flex justify-content-center align-items-center">
           <div className="Menu_content pb-60 text_center">
-            <h1 className="text-center fw-bold display-3 mb-10">
+            <h1 className="text-center mb-10">
               What kind of Coffee we serve for you
             </h1>
-            <p className="text-center display-6">
+            <p className="text-center">
               Who are in extremely love with eco friendly system.
             </p>
           </div>

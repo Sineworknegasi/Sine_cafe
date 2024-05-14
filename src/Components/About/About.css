@@ -7,6 +7,9 @@
     justify-content: center;
     align-items: center;
 }
+.video-left {
+    padding-left: 10%;
+}
 .About_content {
     padding-left: 20%;
 }

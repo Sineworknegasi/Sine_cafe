@@ -6,6 +6,7 @@ import 'bootstrap/dist/js/bootstrap.js'
 import Hero from './Components/Hero/Hero'
 import About from './Components/About/About'
 import Coffee from './Components/Coffee/Coffee'
+import Gallary from './Components/Gallary/Gallary'
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
     <Hero/>
     <About/>
     <Coffee/>
+    <Gallary/>
     </>
   )
 }

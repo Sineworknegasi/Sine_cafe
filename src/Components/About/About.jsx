@@ -16,15 +16,15 @@ const About = () => {
               </div>
             </div>
           </div>
-          <div className="col-md-6">
+          <div className="col-md-6 video-left">
             <div className="About_content px-2">
               <h6 className="text_brown fw-normal">
                 LIVE COFFEE MAKING PROCESS
               </h6>
-              <h1 className="fw-bold pb-3 display-4">
-                We Telecast our Coffee Making Live
+              <h1 className=" fw-semibold pb-2">
+                We Telecast our <br />Coffee Making Live
               </h1>
-              <p className="fs-5">We are here to listen from you deliver exellence</p>
+              <p className="fs-6 text-black">We are here to listen from you deliver exellence</p>
               <p className="fs-6">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
                 eiusmod temp or incididunt ut labore et dolore magna aliqua. Ut
