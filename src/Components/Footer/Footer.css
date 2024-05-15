@@ -1,0 +1,34 @@
+.footer_section {
+    background: url("https://preview.colorlib.com/theme/coffee/img/footer-bg.jpg.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+.Footer_social {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    color: white;
+    gap:1rem;
+    font-size: 14px;
+    list-style: none;
+}
+.Footer_social li {
+    padding: 0.5rem 0.7rem;
+    border: 1px solid white;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.Footer_social li:hover {
+    background-color: var(--brown);
+}
+
+.right_btn_sub {
+    background: var(--brown);
+    color: white;
+    padding: 0.5rem 1rem;
+    border:none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}

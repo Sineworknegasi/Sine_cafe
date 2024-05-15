@@ -1,0 +1,26 @@
+.post_tag {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 5px;
+}
+.post_tag li {
+    margin: 20px 0;
+    padding: 4px 20px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.post_tag li:hover {
+    background-color: var(--brown);
+    color: white;
+}
+.Blog_Date {
+    font-size: 14px;
+    font-weight: 500;
+    color: black;
+}

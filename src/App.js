@@ -7,6 +7,9 @@ import Hero from './Components/Hero/Hero'
 import About from './Components/About/About'
 import Coffee from './Components/Coffee/Coffee'
 import Gallary from './Components/Gallary/Gallary'
+import Review from './Components/Review/Review'
+import Blog from './Components/Blog/Blog'
+import Footer from './Components/Footer/Footer'
 
 const App = () => {
   return (
@@ -16,6 +19,9 @@ const App = () => {
     <About/>
     <Coffee/>
     <Gallary/>
+    <Review/>
+    <Blog/>
+    <Footer/>
     </>
   )
 }
